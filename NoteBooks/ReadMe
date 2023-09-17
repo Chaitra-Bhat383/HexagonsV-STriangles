@@ -1,0 +1,9 @@
+In this approach, we perform four distinct tasks - Strength analysis, Node classification, Graph classification, and Motif analysis.
+
+Strength Analysis: Incorporates Graph Energy and Algebraic Connectivity with a focus on triangular and hexagonal cycles.
+
+Node Classification: Performed node classification on Zachary's Karate Club social network dataset. Employed the GCN model with additional features based on the count of triangular and hexagonal cycles for each node.
+
+Graph Classification: Performed graph classification on the WICO dataset to predict if a graph is a conspiracy one or a non-conspiracy graph.
+
+Motif analysis: Conducted a comparative analysis between cycles in the datasets utilized.
